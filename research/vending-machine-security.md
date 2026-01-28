@@ -2,7 +2,8 @@
 layout: post
 title: "Free items in a Network-Connected Vending Machine"
 ---
-
+# Free items in a Network-Connected Vending Machine
+---
 ## Abstract
 
 This report documents a security research exercise conducted on a network-connected vending machine deployed in a college environment. The research uncovered critical API-level authorization and transaction state validation flaws that allowed unauthorized triggering of hardware actions. The issue demonstrated how common web security failures can translate directly into physical-world impact when present in IoT and edge devices. The vulnerability was responsibly disclosed to the vendor and subsequently addressed.
