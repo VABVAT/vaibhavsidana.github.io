@@ -1,5 +1,6 @@
 ---
-# Free Items in a Network-Connected Vending Machine
+layout: post
+title: "Free items in a Network-Connected Vending Machine"
 ---
 
 ## Abstract
